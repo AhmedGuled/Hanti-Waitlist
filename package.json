@@ -24,4 +24,15 @@
   },
   "engines": {
     "node": ">=18.0.0",
- 
+    "npm": ">=8.0.0"
+  },
+  "keywords": [
+    "real-estate",
+    "landing-page",
+    "waitlist",
+    "nodejs",
+    "express"
+  ],
+  "author": "Team Hanti",
+  "license": "MIT"
+}
