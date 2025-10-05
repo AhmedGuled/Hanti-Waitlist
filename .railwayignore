@@ -1,0 +1,21 @@
+# Railway ignore file
+node_modules/
+.git/
+.DS_Store
+.env.local
+.env.development
+.env.test
+*.log
+.nyc_output
+coverage/
+.cache/
+.parcel-cache/
+dist/
+.tmp/
+.temp/
+README.md
+*.md
+.gitignore
+.prettierrc
+.eslintrc*
+.editorconfig
